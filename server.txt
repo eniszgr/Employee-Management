@@ -1,0 +1,1 @@
+Data Source=LAPTOP-NJT7QHD1\SQLEXPRESS;Initial Catalog=EmployeeDataBase;Integrated Security=True
